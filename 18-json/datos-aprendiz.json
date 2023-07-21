@@ -1,0 +1,11 @@
+{
+    "nombre": "Fernanda",
+    "apellidos": "Suarez",
+    "id": 2669959,
+    "activo": true,
+    "intereses": [
+        "HTML", 
+        "CSS"
+    ]
+}
+
